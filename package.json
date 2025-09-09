@@ -1,0 +1,24 @@
+{
+  "name": "pagina-web-(enginne-wars)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoolvera4498-cmyk/Pagina-Enginne-Wars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoolvera4498-cmyk/Pagina-Enginne-Wars/issues"
+  },
+  "homepage": "https://github.com/diegoolvera4498-cmyk/Pagina-Enginne-Wars#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
